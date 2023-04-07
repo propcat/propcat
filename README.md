@@ -9,6 +9,6 @@
 
 #### Projects I plan for this year
 
-- 📝 Text editor made with **Flutter** focusing on simplicity and ease of use
+- 📝 Text editor made with **Flutter** focusing on simplicity and ease of use (something à la Scrivener but simpler)
 - 🙀 Portfolio website showcasing my projects
 - 😎 Browser based multiplayer game
